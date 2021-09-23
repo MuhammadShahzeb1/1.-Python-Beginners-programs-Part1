@@ -8,8 +8,8 @@ dict= {"leap": "to suddenly move somewhere:", "giggle": "to laugh in a nervous o
        "appliance": "a piece of electrical equipment with a particular purpose in the home:",
        "violent": "sudden and causing damage:", "believe": "to think that something is true:", }
 
-print("Search The meaning of a Word")
-wd=input()
+
+wd=input("Search The meaning of a Word")
 print(dict[wd])
 
 """
